@@ -1,4 +1,9 @@
-# README instructions for chemical-biological read across (CBRA) (also termed dual-space kNN)
+# README instructions for chemical-biological read across (CBRA)
+#
+# Also in supplemental material of publication:
+#    Integrative Chemical–Biological Read-Across Approach for Chemical Hazard Classification. Y
+#    Yen Low, Alexander Sedykh, Denis Fourches, Alexander Golbraikh, Maurice Whelan, Ivan Rusyn, and Alexander Tropsha. Chemical Research in Toxicology 2013 26 (8), 1199-1208.
+#    DOI: 10.1021/tx400110   http://pubs.acs.org/doi/suppl/10.1021/tx400110f 
 #
 # Yen Low (yenlow@gmail.com)
 # 05 June 2013 version 1.0
